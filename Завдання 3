@@ -1,0 +1,6 @@
+fn main() {
+    let t = false; 
+    if !t {
+        println!("Success!");
+    }
+}
